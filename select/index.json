@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Heart Like A Truck",
+  "base_artist": "Lainey Wilson",
+  "createdAt": "2025-12-14T14:40:43.752876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/01_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/02_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/03_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/04_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/05_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/06_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/07_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": false,
+      "path": "select/pl_01_Heart_Like_A_Truck_Lainey_Wilson.txt"
+    }
+  ]
+}
